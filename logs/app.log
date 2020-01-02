@@ -1,0 +1,748 @@
+[2019-11-05 14:41:25] banisaleh.INFO: application run, select 43a87006150265 [] {"uid":"98abdbe"}
+[2019-11-05 14:41:25] banisaleh.INFO: application run, select 43a87006150265 [] {"uid":"6909a56"}
+[2019-11-05 14:42:26] banisaleh.INFO: application run, select 43a87006150265 [] {"uid":"a724afc"}
+[2019-11-05 14:42:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"570b5f0"}
+[2019-11-05 14:43:31] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"245f195"}
+[2019-11-05 14:43:37] banisaleh.INFO: application run, select 1 [] {"uid":"acbd5b2"}
+[2019-11-05 14:45:03] banisaleh.INFO: application run, select 1 [] {"uid":"efd626c"}
+[2019-11-05 14:45:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"974ece3"}
+[2019-11-05 14:50:43] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"e09a0ad"}
+[2019-11-05 14:51:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d50ddb1"}
+[2019-11-05 14:51:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0c983be"}
+[2019-11-05 14:52:42] banisaleh.INFO: application run, select 1 [] {"uid":"f264dbd"}
+[2019-11-05 14:55:42] banisaleh.INFO: application insert  [] {"uid":"06c6c1b"}
+[2019-11-05 14:56:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8b25304"}
+[2019-11-05 14:59:05] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"aeefa26"}
+[2019-11-05 14:59:11] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e6f3561"}
+[2019-11-05 14:59:38] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0d0447a"}
+[2019-11-05 14:59:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d84b564"}
+[2019-11-08 08:52:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"75c0f0b"}
+[2019-11-08 08:57:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e3d6102"}
+[2019-11-08 08:57:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"572ed86"}
+[2019-11-08 09:01:29] banisaleh.INFO: application run, select 1 [] {"uid":"b1f1334"}
+[2019-11-08 09:07:03] banisaleh.INFO: application run, select 1 [] {"uid":"eaeced2"}
+[2019-11-08 09:09:48] banisaleh.INFO: application insert  [] {"uid":"66e4f5d"}
+[2019-11-08 09:09:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"762f864"}
+[2019-11-08 09:10:34] banisaleh.INFO: application insert  [] {"uid":"39ec987"}
+[2019-11-08 09:11:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a496bbf"}
+[2019-11-08 09:12:11] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1bda493"}
+[2019-11-08 09:20:30] banisaleh.INFO: application run, select 1 [] {"uid":"777b86e"}
+[2019-11-09 05:44:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e46fe9b"}
+[2019-11-13 08:13:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ad3828c"}
+[2019-11-13 08:14:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4d3eda5"}
+[2019-11-13 08:22:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ae40737"}
+[2019-11-13 08:25:54] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2985e21"}
+[2019-11-13 08:26:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c516ea9"}
+[2019-11-13 08:28:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b7e0381"}
+[2019-11-13 08:29:53] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9159048"}
+[2019-11-13 08:38:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"628a47b"}
+[2019-11-13 09:20:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d1a6e5e"}
+[2019-11-13 09:28:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b213f29"}
+[2019-11-13 09:49:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2689fb6"}
+[2019-11-13 09:50:39] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"511624a"}
+[2019-11-13 09:50:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3a2eaab"}
+[2019-11-13 11:11:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d162e6c"}
+[2019-11-13 11:16:09] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2f7a07d"}
+[2019-11-14 05:58:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"45b147c"}
+[2019-11-14 05:58:52] banisaleh.INFO: application run, select 1 [] {"uid":"fd536b6"}
+[2019-11-14 05:58:58] banisaleh.INFO: application run, select 2 [] {"uid":"56dcabb"}
+[2019-11-14 05:59:09] banisaleh.INFO: application run, select 43a8700199 [] {"uid":"8a9040c"}
+[2019-11-14 05:59:18] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"4b43fc8"}
+[2019-11-14 05:59:25] banisaleh.INFO: application run, select 2 [] {"uid":"a54bb4f"}
+[2019-11-14 05:59:39] banisaleh.INFO: application run, select 2 [] {"uid":"9fbb522"}
+[2019-11-14 06:16:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2a92f30"}
+[2019-11-14 06:16:24] banisaleh.INFO: application insert  [] {"uid":"3c378de"}
+[2019-11-14 06:16:26] banisaleh.INFO: application insert  [] {"uid":"7cdab3c"}
+[2019-11-14 06:16:28] banisaleh.INFO: application insert  [] {"uid":"bc5c9f8"}
+[2019-11-14 06:16:29] banisaleh.INFO: application insert  [] {"uid":"85f5480"}
+[2019-11-14 06:16:29] banisaleh.INFO: application insert  [] {"uid":"dcbbcf2"}
+[2019-11-14 06:16:29] banisaleh.INFO: application insert  [] {"uid":"e1e1f9b"}
+[2019-11-14 06:16:30] banisaleh.INFO: application insert  [] {"uid":"fdabdc4"}
+[2019-11-14 06:16:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9a1f1f1"}
+[2019-11-14 06:17:44] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c01ee8f"}
+[2019-11-14 06:17:49] banisaleh.INFO: application run, select 1 [] {"uid":"412d4d0"}
+[2019-11-14 06:18:02] banisaleh.INFO: application insert  [] {"uid":"dea81c6"}
+[2019-11-14 06:18:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"98d82f5"}
+[2019-11-14 06:20:28] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"060ff43"}
+[2019-11-14 06:21:04] banisaleh.INFO: application insert  [] {"uid":"6c5a406"}
+[2019-11-14 06:21:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2bd48a0"}
+[2019-11-14 06:22:11] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b3df6ff"}
+[2019-11-14 06:22:17] banisaleh.INFO: application run, select 1 [] {"uid":"0ac3e29"}
+[2019-11-14 06:22:32] banisaleh.INFO: application insert  [] {"uid":"6d9fec1"}
+[2019-11-14 06:22:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"aafb815"}
+[2019-11-14 06:23:12] banisaleh.INFO: application run, select 4 [] {"uid":"9a11895"}
+[2019-11-14 06:23:18] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6df8c8a"}
+[2019-11-14 06:23:25] banisaleh.INFO: application run, select a [] {"uid":"6812f37"}
+[2019-11-14 06:27:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"de7b7cf"}
+[2019-11-14 06:27:31] banisaleh.INFO: application run, select 2 [] {"uid":"7b7758f"}
+[2019-11-14 06:28:10] banisaleh.INFO: application run, select 4 [] {"uid":"4cf77ab"}
+[2019-11-14 06:28:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3a21a9b"}
+[2019-11-14 06:28:21] banisaleh.INFO: application run, select a [] {"uid":"3153c3d"}
+[2019-11-14 06:28:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0aac48f"}
+[2019-11-14 09:27:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2bad2b5"}
+[2019-11-14 09:27:41] banisaleh.INFO: application run, select 2 [] {"uid":"423eab9"}
+[2019-11-14 09:27:47] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"87e57ab"}
+[2019-11-15 02:27:19] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3cbde3b"}
+[2019-11-15 02:28:44] banisaleh.INFO: application run, select 43a87006150265 [] {"uid":"eb7b89e"}
+[2019-11-18 07:57:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1b977d8"}
+[2019-11-18 07:57:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"383f66c"}
+[2019-11-18 07:59:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5f3ff59"}
+[2019-11-18 08:00:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"08e043a"}
+[2019-11-18 08:00:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e3beaf3"}
+[2019-11-18 08:00:22] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6a6860e"}
+[2019-11-18 08:00:27] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"210e533"}
+[2019-11-18 08:00:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"931ba64"}
+[2019-11-18 08:01:17] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5490dc8"}
+[2019-11-18 08:01:56] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3cb3d88"}
+[2019-11-18 08:02:30] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1ee47d8"}
+[2019-11-18 08:04:21] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ac521ae"}
+[2019-11-18 08:06:21] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b794b96"}
+[2019-11-18 08:08:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5bfb9ad"}
+[2019-11-18 08:08:33] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8dcb00f"}
+[2019-11-18 08:08:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2b3e9e2"}
+[2019-11-18 08:08:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0d8159c"}
+[2019-11-18 08:10:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d7195c3"}
+[2019-11-18 08:10:54] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2b33035"}
+[2019-11-18 08:11:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f4b1347"}
+[2019-11-18 08:12:56] banisaleh.INFO: application run, select 1 [] {"uid":"9aa041e"}
+[2019-11-18 08:13:01] banisaleh.INFO: application run, select 10 [] {"uid":"c7b0ff0"}
+[2019-11-18 08:13:28] banisaleh.INFO: application run, select 5 [] {"uid":"8cea27d"}
+[2019-11-18 08:13:34] banisaleh.INFO: application run, select 3 [] {"uid":"f3724fe"}
+[2019-11-18 08:14:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"74768b6"}
+[2019-11-18 09:04:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a63635a"}
+[2019-11-18 09:50:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5f1d812"}
+[2019-11-18 09:52:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c18dd67"}
+[2019-11-19 07:31:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f757982"}
+[2019-11-19 07:31:57] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"03a3b61"}
+[2019-11-19 08:16:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"419ee3b"}
+[2019-11-19 09:41:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fd17077"}
+[2019-11-19 09:44:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"09b390d"}
+[2019-11-19 09:48:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4d4064b"}
+[2019-11-19 09:56:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8f3aa33"}
+[2019-11-19 09:59:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e77b898"}
+[2019-11-19 10:28:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"902b460"}
+[2019-11-19 10:49:09] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7e10223"}
+[2019-11-19 10:49:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f26a942"}
+[2019-11-19 10:49:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"75d0d5f"}
+[2019-11-19 10:50:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"72bb1dc"}
+[2019-11-19 10:50:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"bddba0f"}
+[2019-11-19 10:59:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b01da3e"}
+[2019-11-19 11:00:21] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2688033"}
+[2019-11-19 11:02:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"369b175"}
+[2019-11-19 11:04:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"13eec89"}
+[2019-11-19 11:05:09] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c3dfd8d"}
+[2019-11-19 11:06:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"81735b9"}
+[2019-11-19 11:07:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"cd9ad34"}
+[2019-11-19 11:10:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"621ca84"}
+[2019-11-19 11:11:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"75786e8"}
+[2019-11-19 11:12:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b1e30b7"}
+[2019-11-19 11:12:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"84a7cf1"}
+[2019-11-19 11:14:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3636fda"}
+[2019-11-19 11:15:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"73aea2d"}
+[2019-11-19 11:16:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"753cc1a"}
+[2019-11-19 19:22:18] banisaleh.INFO: application register [] {"uid":"70ba48d"}
+[2019-11-19 20:10:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4f7ffa3"}
+[2019-11-19 20:23:37] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4ecdd71"}
+[2019-11-19 20:23:39] banisaleh.INFO: application run, select 1 [] {"uid":"4cf467e"}
+[2019-11-19 20:23:46] banisaleh.INFO: application run, select 2 [] {"uid":"7b3d340"}
+[2019-11-19 20:25:19] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"050c965"}
+[2019-11-20 05:30:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ed4ae52"}
+[2019-11-20 07:32:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"bdee317"}
+[2019-11-20 07:33:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"91a1d00"}
+[2019-11-20 07:33:43] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fc4ca49"}
+[2019-11-20 07:33:43] banisaleh.INFO: application run, select 2 [] {"uid":"0b3e856"}
+[2019-11-20 07:34:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a1a9d8b"}
+[2019-11-20 07:34:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"895a119"}
+[2019-11-20 07:34:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"57e8c0a"}
+[2019-11-20 07:34:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fb370ac"}
+[2019-11-20 07:34:22] banisaleh.INFO: application run, select npm [] {"uid":"296d1c5"}
+[2019-11-20 07:34:23] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"cd53aed"}
+[2019-11-20 07:34:23] banisaleh.INFO: application run, select 1 [] {"uid":"0baaf41"}
+[2019-11-20 07:34:38] banisaleh.INFO: application run, select 11 [] {"uid":"fbf36e8"}
+[2019-11-20 07:34:39] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fae1c31"}
+[2019-11-20 07:34:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d3d9733"}
+[2019-11-20 07:34:53] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"36dbf3b"}
+[2019-11-20 07:34:58] banisaleh.INFO: application run, select 43a8700199 [] {"uid":"dcee0b6"}
+[2019-11-20 07:35:03] banisaleh.INFO: application run, select 1 [] {"uid":"0ea58b7"}
+[2019-11-20 07:35:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f2cfb67"}
+[2019-11-20 07:35:56] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4fa38bd"}
+[2019-11-20 07:36:24] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0de5e1a"}
+[2019-11-20 07:36:40] banisaleh.INFO: application run, select 1 [] {"uid":"9db21fd"}
+[2019-11-20 07:36:44] banisaleh.INFO: application run, select 2 [] {"uid":"0818553"}
+[2019-11-20 07:36:54] banisaleh.INFO: application run, select 43a87001990 [] {"uid":"a08b470"}
+[2019-11-20 07:36:57] banisaleh.INFO: application run, select 2 [] {"uid":"93c7a21"}
+[2019-11-20 07:37:18] banisaleh.INFO: application run, select 1 [] {"uid":"00dd39e"}
+[2019-11-20 07:37:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b65a3db"}
+[2019-11-20 07:37:36] banisaleh.INFO: application run, select 2 [] {"uid":"16276f1"}
+[2019-11-20 07:38:03] banisaleh.INFO: application run, select 3 [] {"uid":"bea4010"}
+[2019-11-20 07:49:31] banisaleh.INFO: application run, select 3 [] {"uid":"4a1556a"}
+[2019-11-20 08:04:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"60880c7"}
+[2019-11-20 08:18:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4cb9c1e"}
+[2019-11-20 08:56:55] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8ab81ad"}
+[2019-11-20 09:01:30] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"658241f"}
+[2019-11-20 09:01:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0f23290"}
+[2019-11-20 09:01:37] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1cd3b02"}
+[2019-11-20 09:01:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a445c1f"}
+[2019-11-20 09:03:18] banisaleh.INFO: application insert  [] {"uid":"82a5077"}
+[2019-11-20 09:03:19] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"74369d8"}
+[2019-11-20 09:03:38] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"4444077"}
+[2019-11-20 09:03:49] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"091c051"}
+[2019-11-20 09:06:01] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"f4f7d60"}
+[2019-11-20 09:06:25] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"370c5e8"}
+[2019-11-20 09:08:44] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"1fc80d8"}
+[2019-11-20 09:12:51] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3a14d69"}
+[2019-11-20 09:12:56] banisaleh.INFO: application run, select 1 [] {"uid":"9d2daa5"}
+[2019-11-20 09:27:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"defc5cc"}
+[2019-11-20 09:33:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6657eac"}
+[2019-11-20 09:34:04] banisaleh.INFO: application run, select 1 [] {"uid":"640a6d3"}
+[2019-11-20 09:34:37] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"dd2c95c"}
+[2019-11-20 09:35:23] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"c2cd86b"}
+[2019-11-20 09:36:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fa34cdc"}
+[2019-11-20 09:37:30] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fc5588e"}
+[2019-11-20 09:38:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6490bce"}
+[2019-11-20 09:39:16] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"2e5ba3e"}
+[2019-11-20 09:40:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0ee4dd4"}
+[2019-11-20 09:41:18] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"70e0723"}
+[2019-11-20 09:41:31] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"3b04d4d"}
+[2019-11-20 09:41:42] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"c2a9bc4"}
+[2019-11-20 09:44:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0aba328"}
+[2019-11-20 09:46:44] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"20522b0"}
+[2019-11-20 09:46:52] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"3501fbe"}
+[2019-11-20 09:47:23] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9313c30"}
+[2019-11-20 09:48:18] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"dc8a7eb"}
+[2019-11-20 09:48:47] banisaleh.INFO: application run, select 1 [] {"uid":"3965a52"}
+[2019-11-20 09:49:18] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"530f393"}
+[2019-11-20 09:49:26] banisaleh.INFO: application run, select 1 [] {"uid":"94c58c6"}
+[2019-11-20 09:50:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c972cc8"}
+[2019-11-20 09:51:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c709c20"}
+[2019-11-20 09:51:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"423fe3c"}
+[2019-11-20 09:52:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2bf69e3"}
+[2019-11-20 09:52:49] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"c3ee92d"}
+[2019-11-20 09:52:55] banisaleh.INFO: application insert  [] {"uid":"79ad178"}
+[2019-11-20 09:53:09] banisaleh.INFO: application insert  [] {"uid":"e929bcf"}
+[2019-11-20 09:53:15] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e04fe45"}
+[2019-11-20 09:53:33] banisaleh.INFO: application insert  [] {"uid":"815b90f"}
+[2019-11-20 09:53:33] banisaleh.INFO: application insert  [] {"uid":"bc0dea7"}
+[2019-11-20 09:53:35] banisaleh.INFO: application insert  [] {"uid":"e88b13d"}
+[2019-11-20 09:53:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"cc17db5"}
+[2019-11-20 09:54:27] banisaleh.INFO: application insert  [] {"uid":"47149ce"}
+[2019-11-20 09:54:34] banisaleh.INFO: application insert  [] {"uid":"fe41b9a"}
+[2019-11-20 09:54:36] banisaleh.INFO: application insert  [] {"uid":"94dcab6"}
+[2019-11-20 09:54:37] banisaleh.INFO: application insert  [] {"uid":"192d66a"}
+[2019-11-20 09:54:38] banisaleh.INFO: application insert  [] {"uid":"57fef9a"}
+[2019-11-20 09:54:40] banisaleh.INFO: application insert  [] {"uid":"8a4956d"}
+[2019-11-20 09:54:41] banisaleh.INFO: application insert  [] {"uid":"3adeaf5"}
+[2019-11-20 09:54:41] banisaleh.INFO: application insert  [] {"uid":"f669907"}
+[2019-11-20 09:58:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7c5fc6f"}
+[2019-11-20 10:00:13] banisaleh.INFO: application insert  [] {"uid":"c0f00fc"}
+[2019-11-20 10:00:14] banisaleh.INFO: application insert  [] {"uid":"8fc0f0a"}
+[2019-11-20 10:01:23] banisaleh.INFO: application insert  [] {"uid":"2aaeafc"}
+[2019-11-20 10:01:26] banisaleh.INFO: application insert  [] {"uid":"2cdabba"}
+[2019-11-20 10:01:29] banisaleh.INFO: application insert  [] {"uid":"3d0830d"}
+[2019-11-20 10:01:36] banisaleh.INFO: application run, select 1 [] {"uid":"064e411"}
+[2019-11-20 10:01:39] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"209ef59"}
+[2019-11-20 10:01:55] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"26bb1bb"}
+[2019-11-20 10:02:43] banisaleh.INFO: application insert  [] {"uid":"e24a073"}
+[2019-11-20 10:02:47] banisaleh.INFO: application insert  [] {"uid":"7071f44"}
+[2019-11-20 10:02:48] banisaleh.INFO: application insert  [] {"uid":"c9d5b93"}
+[2019-11-20 10:02:48] banisaleh.INFO: application insert  [] {"uid":"46e7b89"}
+[2019-11-20 10:02:48] banisaleh.INFO: application insert  [] {"uid":"7a43360"}
+[2019-11-20 10:02:49] banisaleh.INFO: application insert  [] {"uid":"177e749"}
+[2019-11-20 10:02:50] banisaleh.INFO: application insert  [] {"uid":"2af6ed2"}
+[2019-11-20 10:02:52] banisaleh.INFO: application insert  [] {"uid":"d153926"}
+[2019-11-20 10:02:52] banisaleh.INFO: application insert  [] {"uid":"e1e7058"}
+[2019-11-20 10:02:57] banisaleh.INFO: application insert  [] {"uid":"a69faa7"}
+[2019-11-20 10:03:00] banisaleh.INFO: application insert  [] {"uid":"7543e6d"}
+[2019-11-20 10:05:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"56ddfa0"}
+[2019-11-20 10:05:50] banisaleh.INFO: application insert  [] {"uid":"7d23b0f"}
+[2019-11-20 10:05:52] banisaleh.INFO: application insert  [] {"uid":"f408f92"}
+[2019-11-20 10:05:53] banisaleh.INFO: application insert  [] {"uid":"08e0c4a"}
+[2019-11-20 10:05:54] banisaleh.INFO: application insert  [] {"uid":"116d591"}
+[2019-11-20 10:05:54] banisaleh.INFO: application insert  [] {"uid":"844d331"}
+[2019-11-20 10:05:55] banisaleh.INFO: application insert  [] {"uid":"276f4cc"}
+[2019-11-20 10:05:55] banisaleh.INFO: application insert  [] {"uid":"14d4344"}
+[2019-11-20 10:06:27] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f31bbc4"}
+[2019-11-20 10:06:27] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"bded05e"}
+[2019-11-20 10:08:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e4d54de"}
+[2019-11-20 10:09:23] banisaleh.INFO: application insert  [] {"uid":"5af46dd"}
+[2019-11-20 10:09:27] banisaleh.INFO: application insert  [] {"uid":"bc6fafb"}
+[2019-11-20 10:09:27] banisaleh.INFO: application insert  [] {"uid":"cfd2ef9"}
+[2019-11-20 10:09:29] banisaleh.INFO: application insert  [] {"uid":"087109c"}
+[2019-11-20 10:09:29] banisaleh.INFO: application insert  [] {"uid":"38b3f83"}
+[2019-11-20 10:09:29] banisaleh.INFO: application insert  [] {"uid":"854fb21"}
+[2019-11-20 10:09:30] banisaleh.INFO: application insert  [] {"uid":"2653ed0"}
+[2019-11-20 10:09:30] banisaleh.INFO: application insert  [] {"uid":"b03b71f"}
+[2019-11-20 10:09:30] banisaleh.INFO: application insert  [] {"uid":"4986ebb"}
+[2019-11-20 10:09:31] banisaleh.INFO: application insert  [] {"uid":"63ebc20"}
+[2019-11-20 10:09:32] banisaleh.INFO: application insert  [] {"uid":"7e07a1f"}
+[2019-11-20 10:09:32] banisaleh.INFO: application insert  [] {"uid":"ff402a4"}
+[2019-11-20 10:09:41] banisaleh.INFO: application run, select 3 [] {"uid":"2d00976"}
+[2019-11-20 10:10:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e305fc4"}
+[2019-11-20 10:10:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b9181eb"}
+[2019-11-20 10:10:20] banisaleh.INFO: application run, select 1 [] {"uid":"4aa9a69"}
+[2019-11-20 10:10:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2885477"}
+[2019-11-20 10:10:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"febdcb8"}
+[2019-11-20 10:10:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"94b97ca"}
+[2019-11-20 10:11:14] banisaleh.INFO: application run, select 43A87006160078 [] {"uid":"6d4ee62"}
+[2019-11-20 10:11:33] banisaleh.INFO: application insert  [] {"uid":"f13faba"}
+[2019-11-20 10:11:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d3acd38"}
+[2019-11-20 10:11:48] banisaleh.INFO: application run, select 4 [] {"uid":"fc7ab8e"}
+[2019-11-20 10:12:20] banisaleh.INFO: application insert  [] {"uid":"1d520e3"}
+[2019-11-20 10:12:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c157970"}
+[2019-11-20 10:12:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9201bdd"}
+[2019-11-20 10:13:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d0fec5f"}
+[2019-11-20 10:14:39] banisaleh.INFO: application insert  [] {"uid":"503971e"}
+[2019-11-20 10:14:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"98b16ac"}
+[2019-11-20 10:14:41] banisaleh.INFO: application run, select 0897 [] {"uid":"6f877ff"}
+[2019-11-20 10:14:59] banisaleh.INFO: application run, select 0897 [] {"uid":"df68176"}
+[2019-11-20 10:15:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"cc63846"}
+[2019-11-20 10:15:16] banisaleh.INFO: application run, select 0897 [] {"uid":"2a45d43"}
+[2019-11-20 10:15:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"dc190b8"}
+[2019-11-20 10:15:42] banisaleh.INFO: application run, select 0897 [] {"uid":"3367773"}
+[2019-11-20 10:16:09] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"63ee15f"}
+[2019-11-20 10:16:36] banisaleh.INFO: application run, select 0897 [] {"uid":"1b27b7d"}
+[2019-11-20 10:16:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a8e13ac"}
+[2019-11-20 10:20:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b413a0a"}
+[2019-11-20 10:21:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0cd7c04"}
+[2019-11-20 10:21:15] banisaleh.INFO: application run, select 1 [] {"uid":"c88cd9a"}
+[2019-11-20 10:21:36] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"502e905"}
+[2019-11-20 10:21:42] banisaleh.INFO: application run, select 1 [] {"uid":"d969f62"}
+[2019-11-20 10:21:47] banisaleh.INFO: application run, select 0897 [] {"uid":"d23fa77"}
+[2019-11-20 10:21:52] banisaleh.INFO: application run, select 2 [] {"uid":"eb207e1"}
+[2019-11-20 10:23:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8ef51cb"}
+[2019-11-20 10:23:55] banisaleh.INFO: application run, select 0897 [] {"uid":"16a6c9b"}
+[2019-11-20 10:24:22] banisaleh.INFO: application run, select 0897 [] {"uid":"04bc40c"}
+[2019-11-20 10:24:42] banisaleh.INFO: application run, select 0897 [] {"uid":"e30ba96"}
+[2019-11-20 10:24:57] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8cb1086"}
+[2019-11-20 10:25:02] banisaleh.INFO: application run, select 2 [] {"uid":"fea5d65"}
+[2019-11-20 10:25:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"56f44b6"}
+[2019-11-20 10:32:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2b17573"}
+[2019-11-20 10:32:50] banisaleh.INFO: application insert  [] {"uid":"54dc937"}
+[2019-11-20 10:32:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"36af173"}
+[2019-11-20 10:35:47] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"112ed9d"}
+[2019-11-20 10:37:23] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9a69e9a"}
+[2019-11-20 10:38:33] banisaleh.INFO: application insert  [] {"uid":"206a39b"}
+[2019-11-20 10:38:33] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"bbd020a"}
+[2019-11-20 10:39:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7ea16ce"}
+[2019-11-20 10:39:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0a2ceae"}
+[2019-11-20 10:40:56] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"84651d6"}
+[2019-11-20 10:41:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b7b7acf"}
+[2019-11-20 10:41:04] banisaleh.INFO: application insert  [] {"uid":"db85caf"}
+[2019-11-20 10:41:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a8c4eb9"}
+[2019-11-20 10:41:33] banisaleh.INFO: application insert  [] {"uid":"eae3497"}
+[2019-11-20 10:41:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"435ae8f"}
+[2019-11-20 10:42:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0766c19"}
+[2019-11-20 10:42:12] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"4df90bc"}
+[2019-11-20 10:42:44] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f8dd0ca"}
+[2019-11-20 10:42:47] banisaleh.INFO: application run, select 3 [] {"uid":"2ed1376"}
+[2019-11-20 10:42:50] banisaleh.INFO: application run, select 0897 [] {"uid":"1c68ad2"}
+[2019-11-20 10:42:57] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d0c7150"}
+[2019-11-20 10:43:26] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"e27aee3"}
+[2019-11-20 10:44:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5475dd4"}
+[2019-11-20 10:44:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b24a77a"}
+[2019-11-20 10:44:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0b7d7ff"}
+[2019-11-20 10:44:15] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"019593b"}
+[2019-11-20 10:44:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"785e0ff"}
+[2019-11-20 10:44:32] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"809fcf1"}
+[2019-11-20 10:44:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5be7cf3"}
+[2019-11-20 10:44:38] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7d32d20"}
+[2019-11-20 10:44:43] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f0a9a1a"}
+[2019-11-20 10:44:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2bc93e1"}
+[2019-11-20 10:45:02] banisaleh.INFO: application insert  [] {"uid":"3a0ffd8"}
+[2019-11-20 10:45:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"98ed289"}
+[2019-11-20 10:45:08] banisaleh.INFO: application run, select 0897 [] {"uid":"e3cfa44"}
+[2019-11-20 10:45:29] banisaleh.INFO: application insert  [] {"uid":"47d2bf2"}
+[2019-11-20 10:45:34] banisaleh.INFO: application insert  [] {"uid":"bd2ec6c"}
+[2019-11-20 10:45:39] banisaleh.INFO: application insert  [] {"uid":"a6fdf9d"}
+[2019-11-20 10:45:44] banisaleh.INFO: application insert  [] {"uid":"be833c1"}
+[2019-11-20 10:45:45] banisaleh.INFO: application insert  [] {"uid":"48facf8"}
+[2019-11-20 10:45:47] banisaleh.INFO: application insert  [] {"uid":"ab20ee4"}
+[2019-11-20 10:45:49] banisaleh.INFO: application run, select 0897 [] {"uid":"fef80ee"}
+[2019-11-20 10:45:53] banisaleh.INFO: application insert  [] {"uid":"4ff6cf6"}
+[2019-11-20 10:45:54] banisaleh.INFO: application insert  [] {"uid":"4f26fb9"}
+[2019-11-20 10:45:56] banisaleh.INFO: application insert  [] {"uid":"7a85067"}
+[2019-11-20 10:45:58] banisaleh.INFO: application insert  [] {"uid":"2024ebf"}
+[2019-11-20 10:45:59] banisaleh.INFO: application insert  [] {"uid":"0154b52"}
+[2019-11-20 10:45:59] banisaleh.INFO: application insert  [] {"uid":"1b8eb8c"}
+[2019-11-20 10:46:02] banisaleh.INFO: application insert  [] {"uid":"0b8b2ac"}
+[2019-11-20 10:46:02] banisaleh.INFO: application insert  [] {"uid":"8614f33"}
+[2019-11-20 10:46:04] banisaleh.INFO: application insert  [] {"uid":"8fc2f75"}
+[2019-11-20 10:46:24] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c6b2d1d"}
+[2019-11-20 10:46:25] banisaleh.INFO: application insert  [] {"uid":"48e9397"}
+[2019-11-20 10:46:25] banisaleh.INFO: application insert  [] {"uid":"1888275"}
+[2019-11-20 10:46:26] banisaleh.INFO: application insert  [] {"uid":"e12ea57"}
+[2019-11-20 10:46:27] banisaleh.INFO: application insert  [] {"uid":"b5e29f6"}
+[2019-11-20 10:46:27] banisaleh.INFO: application insert  [] {"uid":"309a256"}
+[2019-11-20 10:46:27] banisaleh.INFO: application insert  [] {"uid":"f7715f2"}
+[2019-11-20 10:46:27] banisaleh.INFO: application insert  [] {"uid":"3c137ac"}
+[2019-11-20 10:46:28] banisaleh.INFO: application insert  [] {"uid":"85b909f"}
+[2019-11-20 10:46:28] banisaleh.INFO: application insert  [] {"uid":"7be0aa0"}
+[2019-11-20 10:46:28] banisaleh.INFO: application insert  [] {"uid":"9cf9ea4"}
+[2019-11-20 10:46:28] banisaleh.INFO: application insert  [] {"uid":"7bd9f2e"}
+[2019-11-20 10:46:28] banisaleh.INFO: application insert  [] {"uid":"c6bd478"}
+[2019-11-20 10:46:29] banisaleh.INFO: application insert  [] {"uid":"76e19e6"}
+[2019-11-20 10:46:29] banisaleh.INFO: application insert  [] {"uid":"6b0eea4"}
+[2019-11-20 10:46:29] banisaleh.INFO: application insert  [] {"uid":"f7e63e2"}
+[2019-11-20 10:46:29] banisaleh.INFO: application insert  [] {"uid":"f4fc6c7"}
+[2019-11-20 10:46:30] banisaleh.INFO: application insert  [] {"uid":"d9df51f"}
+[2019-11-20 10:46:30] banisaleh.INFO: application insert  [] {"uid":"c568ad9"}
+[2019-11-20 10:46:30] banisaleh.INFO: application insert  [] {"uid":"a778255"}
+[2019-11-20 10:46:31] banisaleh.INFO: application insert  [] {"uid":"b776045"}
+[2019-11-20 10:46:31] banisaleh.INFO: application insert  [] {"uid":"4022c61"}
+[2019-11-20 10:46:31] banisaleh.INFO: application insert  [] {"uid":"7711074"}
+[2019-11-20 10:46:32] banisaleh.INFO: application insert  [] {"uid":"c118460"}
+[2019-11-20 10:46:32] banisaleh.INFO: application insert  [] {"uid":"a563d2e"}
+[2019-11-20 10:46:33] banisaleh.INFO: application insert  [] {"uid":"89fe672"}
+[2019-11-20 10:46:33] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ae5fd8c"}
+[2019-11-20 10:46:33] banisaleh.INFO: application insert  [] {"uid":"d47f6bd"}
+[2019-11-20 10:46:34] banisaleh.INFO: application insert  [] {"uid":"c384236"}
+[2019-11-20 10:46:34] banisaleh.INFO: application insert  [] {"uid":"8c7f2c5"}
+[2019-11-20 10:46:34] banisaleh.INFO: application insert  [] {"uid":"0219125"}
+[2019-11-20 10:46:34] banisaleh.INFO: application insert  [] {"uid":"a8d32b6"}
+[2019-11-20 10:46:35] banisaleh.INFO: application insert  [] {"uid":"b5754c8"}
+[2019-11-20 10:46:35] banisaleh.INFO: application insert  [] {"uid":"c495422"}
+[2019-11-20 10:46:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f27bcaa"}
+[2019-11-20 10:46:35] banisaleh.INFO: application insert  [] {"uid":"eed4425"}
+[2019-11-20 10:46:35] banisaleh.INFO: application insert  [] {"uid":"84fbf33"}
+[2019-11-20 10:46:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f0ba172"}
+[2019-11-20 10:46:45] banisaleh.INFO: application run, select 0897 [] {"uid":"8007578"}
+[2019-11-20 10:47:26] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"ddc6eb1"}
+[2019-11-20 10:47:39] banisaleh.INFO: application insert  [] {"uid":"c3ded11"}
+[2019-11-20 10:47:39] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"baf663f"}
+[2019-11-20 10:47:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8b102d1"}
+[2019-11-20 10:47:52] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"16b50ce"}
+[2019-11-20 10:48:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a3ee83c"}
+[2019-11-20 10:48:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d652fbb"}
+[2019-11-20 10:48:32] banisaleh.INFO: application run, select 43A87006160104 [] {"uid":"0792c2e"}
+[2019-11-20 10:48:45] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6b30f14"}
+[2019-11-20 10:48:47] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"21baceb"}
+[2019-11-20 10:49:02] banisaleh.INFO: application run, select 0003013 [] {"uid":"e917926"}
+[2019-11-20 10:49:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"de24f04"}
+[2019-11-20 10:49:13] banisaleh.INFO: application run, select 0003013 [] {"uid":"7bd2161"}
+[2019-11-20 10:49:17] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"97c22ee"}
+[2019-11-20 10:49:26] banisaleh.INFO: application run, select 0897 [] {"uid":"aa10c98"}
+[2019-11-20 10:49:34] banisaleh.INFO: application insert  [] {"uid":"6657ac7"}
+[2019-11-20 10:49:34] banisaleh.INFO: application run, select 0897 [] {"uid":"979598a"}
+[2019-11-20 10:49:39] banisaleh.INFO: application insert  [] {"uid":"b682aed"}
+[2019-11-20 10:49:39] banisaleh.INFO: application insert  [] {"uid":"cfbb007"}
+[2019-11-20 10:49:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4515af3"}
+[2019-11-20 10:49:41] banisaleh.INFO: application insert  [] {"uid":"0aa6149"}
+[2019-11-20 10:49:41] banisaleh.INFO: application insert  [] {"uid":"d0fe283"}
+[2019-11-20 10:49:44] banisaleh.INFO: application insert  [] {"uid":"2a813a2"}
+[2019-11-20 10:49:45] banisaleh.INFO: application insert  [] {"uid":"2e32cb9"}
+[2019-11-20 10:49:45] banisaleh.INFO: application insert  [] {"uid":"f591472"}
+[2019-11-20 10:49:48] banisaleh.INFO: application insert  [] {"uid":"de2d9b7"}
+[2019-11-20 10:49:51] banisaleh.INFO: application insert  [] {"uid":"797dc3e"}
+[2019-11-20 10:49:52] banisaleh.INFO: application insert  [] {"uid":"c8857ce"}
+[2019-11-20 10:49:53] banisaleh.INFO: application insert  [] {"uid":"2c597cd"}
+[2019-11-20 10:50:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"810183d"}
+[2019-11-20 10:50:16] banisaleh.INFO: application insert  [] {"uid":"27fabe5"}
+[2019-11-20 10:50:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8133768"}
+[2019-11-20 10:50:17] banisaleh.INFO: application insert  [] {"uid":"07f77e8"}
+[2019-11-20 10:50:17] banisaleh.INFO: application insert  [] {"uid":"2ad296d"}
+[2019-11-20 10:50:17] banisaleh.INFO: application insert  [] {"uid":"63150fe"}
+[2019-11-20 10:50:23] banisaleh.INFO: application run, select 0897 [] {"uid":"23339d2"}
+[2019-11-20 10:50:53] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b5f22b0"}
+[2019-11-20 10:51:01] banisaleh.INFO: application insert  [] {"uid":"f2a0e4a"}
+[2019-11-20 10:51:01] banisaleh.INFO: application insert  [] {"uid":"8e16607"}
+[2019-11-20 10:51:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"36d531e"}
+[2019-11-20 10:51:28] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7c62b52"}
+[2019-11-20 10:51:44] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1c3fdbf"}
+[2019-11-20 10:52:21] banisaleh.INFO: application insert  [] {"uid":"3a9e957"}
+[2019-11-20 10:52:21] banisaleh.INFO: application insert  [] {"uid":"f9fdf54"}
+[2019-11-20 10:52:22] banisaleh.INFO: application insert  [] {"uid":"a616f8f"}
+[2019-11-20 10:52:22] banisaleh.INFO: application insert  [] {"uid":"f14d349"}
+[2019-11-20 10:52:22] banisaleh.INFO: application insert  [] {"uid":"a5676bc"}
+[2019-11-20 10:52:22] banisaleh.INFO: application insert  [] {"uid":"79eef33"}
+[2019-11-20 10:52:24] banisaleh.INFO: application insert  [] {"uid":"efcfe91"}
+[2019-11-20 10:52:26] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"fa151b0"}
+[2019-11-20 10:53:23] banisaleh.INFO: application insert  [] {"uid":"a9245f7"}
+[2019-11-20 10:53:24] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9d02cdd"}
+[2019-11-20 10:53:38] banisaleh.INFO: application run, select 43a8700 [] {"uid":"b5f9ae8"}
+[2019-11-20 10:53:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7254860"}
+[2019-11-20 10:55:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"68d6719"}
+[2019-11-20 10:56:04] banisaleh.INFO: application insert  [] {"uid":"b795505"}
+[2019-11-20 10:56:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2e5deb7"}
+[2019-11-20 10:56:05] banisaleh.INFO: application insert  [] {"uid":"3b0e1ea"}
+[2019-11-20 10:56:07] banisaleh.INFO: application insert  [] {"uid":"7a1d2d2"}
+[2019-11-20 10:56:07] banisaleh.INFO: application insert  [] {"uid":"74923e1"}
+[2019-11-20 10:56:12] banisaleh.INFO: application run, select 0897 [] {"uid":"275a9e2"}
+[2019-11-20 10:56:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d7acf7f"}
+[2019-11-20 10:57:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f26a716"}
+[2019-11-20 10:57:19] banisaleh.INFO: application run, select 0897 [] {"uid":"1f8c25f"}
+[2019-11-20 10:57:31] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"06ef2ec"}
+[2019-11-20 10:57:35] banisaleh.INFO: application run, select 089794 [] {"uid":"98eeeb8"}
+[2019-11-20 10:57:47] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3c7da8b"}
+[2019-11-20 10:57:58] banisaleh.INFO: application run, select 2 [] {"uid":"af3eb79"}
+[2019-11-20 10:58:30] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d60be3d"}
+[2019-11-20 10:58:34] banisaleh.INFO: application insert  [] {"uid":"94f8cfd"}
+[2019-11-20 10:58:39] banisaleh.INFO: application insert  [] {"uid":"902aaa7"}
+[2019-11-20 10:59:07] banisaleh.INFO: application run, select 43A87006160109 [] {"uid":"8bfd136"}
+[2019-11-20 10:59:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d07ff94"}
+[2019-11-20 10:59:31] banisaleh.INFO: application insert  [] {"uid":"04abb6e"}
+[2019-11-20 11:01:15] banisaleh.INFO: application run, select 2 [] {"uid":"365438c"}
+[2019-11-20 11:01:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f96a3e1"}
+[2019-11-20 11:02:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e243867"}
+[2019-11-20 11:04:01] banisaleh.INFO: application run, select 2 [] {"uid":"7d6c6f6"}
+[2019-11-20 11:04:08] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7c93cbc"}
+[2019-11-20 11:04:28] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e657be7"}
+[2019-11-20 11:04:36] banisaleh.INFO: application insert  [] {"uid":"e290dc2"}
+[2019-11-20 11:05:55] banisaleh.INFO: application run, select 2 [] {"uid":"1cc2352"}
+[2019-11-20 11:06:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d4d4f58"}
+[2019-11-20 11:06:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7b82b67"}
+[2019-11-20 11:06:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1048039"}
+[2019-11-20 11:06:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"867508d"}
+[2019-11-20 11:07:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"868641c"}
+[2019-11-20 11:07:04] banisaleh.INFO: application insert  [] {"uid":"7be21cd"}
+[2019-11-20 11:08:53] banisaleh.INFO: application insert  [] {"uid":"e501568"}
+[2019-11-20 11:08:56] banisaleh.INFO: application insert  [] {"uid":"f39246e"}
+[2019-11-20 11:08:57] banisaleh.INFO: application insert  [] {"uid":"9c5a9ec"}
+[2019-11-20 11:08:58] banisaleh.INFO: application insert  [] {"uid":"b6fee3e"}
+[2019-11-20 11:09:01] banisaleh.INFO: application insert  [] {"uid":"eda3163"}
+[2019-11-20 11:09:02] banisaleh.INFO: application insert  [] {"uid":"2493968"}
+[2019-11-20 11:09:03] banisaleh.INFO: application insert  [] {"uid":"36a96dd"}
+[2019-11-20 11:09:04] banisaleh.INFO: application insert  [] {"uid":"88169c8"}
+[2019-11-20 11:09:15] banisaleh.INFO: application insert  [] {"uid":"2c8cd04"}
+[2019-11-20 11:09:16] banisaleh.INFO: application insert  [] {"uid":"ec70d6e"}
+[2019-11-20 11:09:17] banisaleh.INFO: application insert  [] {"uid":"aa5ec47"}
+[2019-11-20 11:09:50] banisaleh.INFO: application insert  [] {"uid":"7da4daf"}
+[2019-11-20 11:09:58] banisaleh.INFO: application run, select 43A87006160112 [] {"uid":"07c1580"}
+[2019-11-20 11:10:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"da877d4"}
+[2019-11-20 11:10:55] banisaleh.INFO: application run, select 1 [] {"uid":"302f892"}
+[2019-11-20 11:11:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c04719d"}
+[2019-11-20 11:11:33] banisaleh.INFO: application insert  [] {"uid":"91f5537"}
+[2019-11-20 11:12:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e5b846f"}
+[2019-11-20 11:12:34] banisaleh.INFO: application run, select 1 [] {"uid":"149559e"}
+[2019-11-20 11:12:53] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"56485f9"}
+[2019-11-20 11:13:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"acfc5aa"}
+[2019-11-20 11:15:10] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8b4f780"}
+[2019-11-20 11:15:15] banisaleh.INFO: application insert  [] {"uid":"572d115"}
+[2019-11-20 11:15:15] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"24bca2d"}
+[2019-11-20 11:16:03] banisaleh.INFO: application insert  [] {"uid":"e42af95"}
+[2019-11-20 11:16:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a07869e"}
+[2019-11-20 11:16:15] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"6dc3322"}
+[2019-11-20 11:16:18] banisaleh.INFO: application insert  [] {"uid":"b0ba915"}
+[2019-11-20 11:16:19] banisaleh.INFO: application insert  [] {"uid":"7db2f46"}
+[2019-11-20 11:16:20] banisaleh.INFO: application insert  [] {"uid":"d5b81e9"}
+[2019-11-20 11:16:21] banisaleh.INFO: application insert  [] {"uid":"cc2f043"}
+[2019-11-20 11:16:23] banisaleh.INFO: application insert  [] {"uid":"1ffc9d3"}
+[2019-11-20 11:16:25] banisaleh.INFO: application insert  [] {"uid":"092291b"}
+[2019-11-20 11:16:26] banisaleh.INFO: application insert  [] {"uid":"77d8b6e"}
+[2019-11-20 11:16:26] banisaleh.INFO: application insert  [] {"uid":"7337e30"}
+[2019-11-20 11:16:26] banisaleh.INFO: application insert  [] {"uid":"b362708"}
+[2019-11-20 11:16:27] banisaleh.INFO: application insert  [] {"uid":"ffde007"}
+[2019-11-20 11:16:27] banisaleh.INFO: application insert  [] {"uid":"351a83b"}
+[2019-11-20 11:16:27] banisaleh.INFO: application insert  [] {"uid":"76690bc"}
+[2019-11-20 11:16:54] banisaleh.INFO: application insert  [] {"uid":"eb93b52"}
+[2019-11-20 11:17:21] banisaleh.INFO: application run, select 88 [] {"uid":"6e23ef7"}
+[2019-11-20 11:17:38] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"286976f"}
+[2019-11-20 11:17:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"af53d7f"}
+[2019-11-20 11:18:24] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f316137"}
+[2019-11-20 11:18:42] banisaleh.INFO: application insert  [] {"uid":"0c3a577"}
+[2019-11-20 11:18:42] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1e78463"}
+[2019-11-20 11:19:05] banisaleh.INFO: application insert  [] {"uid":"8043059"}
+[2019-11-20 11:19:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"aae0a65"}
+[2019-11-20 11:19:06] banisaleh.INFO: application run, select 098776555 [] {"uid":"a74bc54"}
+[2019-11-20 11:19:28] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"85d7eaf"}
+[2019-11-20 11:19:36] banisaleh.INFO: application run, select 098776555 [] {"uid":"cad5184"}
+[2019-11-20 11:19:37] banisaleh.INFO: application run, select 43A87006160112 [] {"uid":"a4883f6"}
+[2019-11-20 11:20:13] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"7957398"}
+[2019-11-20 11:20:39] banisaleh.INFO: application run, select 1 [] {"uid":"6478d60"}
+[2019-11-20 11:21:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"50a1dce"}
+[2019-11-21 07:43:51] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f9c1bac"}
+[2019-11-21 07:44:14] banisaleh.INFO: application run, select 0003013 [] {"uid":"06cfbeb"}
+[2019-11-21 07:44:54] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4e75ff1"}
+[2019-11-21 07:45:04] banisaleh.INFO: application run, select tagsgs [] {"uid":"bb59b29"}
+[2019-11-21 07:45:15] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"314f190"}
+[2019-11-21 07:45:26] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"463aac4"}
+[2019-11-21 07:45:47] banisaleh.INFO: application run, select 88 [] {"uid":"c5119e5"}
+[2019-11-21 07:49:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"8f9951d"}
+[2019-11-21 07:49:10] banisaleh.INFO: application run, select 6 [] {"uid":"9f03a8f"}
+[2019-11-21 07:49:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"99df374"}
+[2019-11-21 07:54:56] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"18dbeff"}
+[2019-11-21 07:54:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"879082f"}
+[2019-11-21 07:55:06] banisaleh.INFO: application run, select 3 [] {"uid":"48dc287"}
+[2019-11-21 07:55:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"55f9f4e"}
+[2019-11-21 07:56:07] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"172a584"}
+[2019-11-21 07:59:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2b6257f"}
+[2019-11-21 08:00:53] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d44bbb7"}
+[2019-11-21 08:07:51] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"dc67430"}
+[2019-11-21 08:12:27] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"eda4fdc"}
+[2019-11-21 08:12:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c41ef8c"}
+[2019-11-21 08:21:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"65b04f8"}
+[2019-11-21 08:22:07] banisaleh.INFO: application run, select 1223 [] {"uid":"73ceab2"}
+[2019-11-21 08:29:48] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9dd7d2a"}
+[2019-11-21 08:29:59] banisaleh.INFO: application run, select 0003013 [] {"uid":"2293df5"}
+[2019-11-21 08:43:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"3acbc73"}
+[2019-11-21 08:43:55] banisaleh.INFO: application run, select 0003013 [] {"uid":"eef73b6"}
+[2019-11-21 08:44:07] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5e27bee"}
+[2019-11-21 08:45:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9aed24a"}
+[2019-11-21 08:45:54] banisaleh.INFO: application run, select 098776555 [] {"uid":"de3aa3f"}
+[2019-11-21 08:46:06] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"32492e7"}
+[2019-11-21 08:48:00] banisaleh.INFO: application run, select 098776555 [] {"uid":"68fb752"}
+[2019-11-21 08:50:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"95628d2"}
+[2019-11-21 08:50:21] banisaleh.INFO: application run, select 098776555 [] {"uid":"342fc3f"}
+[2019-11-21 08:50:34] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"073045c"}
+[2019-11-21 08:50:38] banisaleh.INFO: application run, select 0003013 [] {"uid":"4326cc0"}
+[2019-11-21 08:50:51] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"f59f66c"}
+[2019-11-21 09:00:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"38b8915"}
+[2019-11-21 10:19:19] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"71e566b"}
+[2019-11-21 10:19:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"436f14e"}
+[2019-11-21 10:22:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a54c87a"}
+[2019-11-21 10:23:31] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"873d44d"}
+[2019-11-21 10:41:23] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"99fa152"}
+[2019-11-21 10:43:53] banisaleh.INFO: application run, select 4 [] {"uid":"db7382b"}
+[2019-11-21 10:50:47] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"678aa64"}
+[2019-11-21 10:55:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"81b26e1"}
+[2019-11-21 10:56:02] banisaleh.INFO: application run, select 0003013 [] {"uid":"de12129"}
+[2019-11-21 10:56:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"61a07d9"}
+[2019-11-21 10:56:45] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a949469"}
+[2019-11-21 10:56:46] banisaleh.INFO: application run, select 1 [] {"uid":"f419926"}
+[2019-11-21 12:46:30] banisaleh.INFO: application register [] {"uid":"c3f4c66"}
+[2019-11-21 12:47:15] banisaleh.INFO: application register [] {"uid":"69ba2c2"}
+[2019-11-21 13:19:25] banisaleh.INFO: application register [] {"uid":"d447966"}
+[2019-11-21 13:20:40] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0ef2517"}
+[2019-11-21 13:21:11] banisaleh.INFO: application run, select 3 [] {"uid":"3c0786d"}
+[2019-11-21 13:21:14] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"27b2dd8"}
+[2019-11-21 13:21:18] banisaleh.INFO: application run, select 1 [] {"uid":"96faba9"}
+[2019-11-21 13:21:21] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e7aebec"}
+[2019-11-21 13:21:44] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1f3cd06"}
+[2019-11-21 13:22:06] banisaleh.INFO: application register [] {"uid":"c86c469"}
+[2019-11-21 13:22:16] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"54c94c2"}
+[2019-11-22 02:09:18] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1877bd4"}
+[2019-11-22 02:10:24] banisaleh.INFO: application register [] {"uid":"c2fd238"}
+[2019-11-22 02:11:56] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"5c386e0"}
+[2019-11-22 07:47:27] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"128a7f5"}
+[2019-11-22 07:52:05] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c6ae50a"}
+[2019-11-22 07:52:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c4657c3"}
+[2019-11-22 07:53:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"617633c"}
+[2019-11-22 07:53:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"0f32c1e"}
+[2019-11-22 07:53:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2d4bf89"}
+[2019-11-22 07:55:50] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e8e9419"}
+[2019-11-22 07:56:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"2205dd6"}
+[2019-11-22 09:37:26] banisaleh.INFO: application register [] {"uid":"7fb237e"}
+[2019-11-22 09:37:55] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"1fabe1c"}
+[2019-11-22 09:38:03] banisaleh.INFO: application run, select 0003013 [] {"uid":"150d285"}
+[2019-11-22 09:52:30] banisaleh.INFO: application register [] {"uid":"3135eb9"}
+[2019-11-22 09:54:56] banisaleh.INFO: application register [] {"uid":"a99e187"}
+[2019-11-22 09:55:45] banisaleh.INFO: application register [] {"uid":"51d29dc"}
+[2019-11-22 09:59:41] banisaleh.INFO: application register [] {"uid":"680c4a1"}
+[2019-11-22 10:02:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"4ed9f8f"}
+[2019-11-22 10:03:37] banisaleh.INFO: application register [] {"uid":"e2e212f"}
+[2019-11-22 10:06:01] banisaleh.INFO: application register [] {"uid":"062f4f8"}
+[2019-11-22 10:07:43] banisaleh.INFO: application register [] {"uid":"7ced736"}
+[2019-11-22 10:07:52] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9a33102"}
+[2019-11-22 10:08:14] banisaleh.INFO: application run, select 43A870061 [] {"uid":"6bb3690"}
+[2019-11-22 10:08:45] banisaleh.INFO: application register [] {"uid":"ed49568"}
+[2019-11-22 10:08:57] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"85d56b1"}
+[2019-11-22 10:10:03] banisaleh.INFO: application register [] {"uid":"74b07b9"}
+[2019-11-22 10:10:07] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e78a2f4"}
+[2019-11-22 10:10:50] banisaleh.INFO: application run, select 88 [] {"uid":"50a6cef"}
+[2019-11-22 10:11:13] banisaleh.INFO: application run, select 88 [] {"uid":"2b322ca"}
+[2019-11-22 10:26:44] banisaleh.INFO: application register [] {"uid":"a135039"}
+[2019-11-22 10:27:20] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"a35c7cd"}
+[2019-11-22 10:27:29] banisaleh.INFO: application run, select 0003013 [] {"uid":"bcea90a"}
+[2019-11-22 10:27:54] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e24545c"}
+[2019-11-22 10:33:38] banisaleh.INFO: application run, select 0003013 [] {"uid":"bcd641e"}
+[2019-11-22 10:33:55] banisaleh.INFO: application run, select 0003013 [] {"uid":"05929ab"}
+[2019-11-22 10:34:11] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"495e4e9"}
+[2019-11-22 10:34:46] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"d9f8216"}
+[2019-11-22 10:34:48] banisaleh.INFO: application run, select 0003013 [] {"uid":"e852537"}
+[2019-11-22 10:35:12] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c6e0c9d"}
+[2019-11-22 10:35:26] banisaleh.INFO: application run, select 0003013 [] {"uid":"53e020e"}
+[2019-11-22 10:35:41] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"43e3398"}
+[2019-11-22 10:35:42] banisaleh.INFO: application run, select 0003013 [] {"uid":"3968d3a"}
+[2019-11-22 10:35:47] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e45740e"}
+[2019-11-22 10:36:45] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"9a59cc8"}
+[2019-11-22 10:38:17] banisaleh.INFO: application insert  [] {"uid":"68d9950"}
+[2019-11-22 10:38:17] banisaleh.INFO: application insert  [] {"uid":"9dd7a13"}
+[2019-11-22 10:38:20] banisaleh.INFO: application insert  [] {"uid":"aef1759"}
+[2019-11-22 10:38:23] banisaleh.INFO: application insert  [] {"uid":"1df46d9"}
+[2019-11-22 10:38:32] banisaleh.INFO: application insert  [] {"uid":"e80940a"}
+[2019-11-22 10:38:32] banisaleh.INFO: application insert  [] {"uid":"4b1e3ac"}
+[2019-11-22 10:38:36] banisaleh.INFO: application insert  [] {"uid":"91f13c0"}
+[2019-11-22 10:38:40] banisaleh.INFO: application insert  [] {"uid":"7ce6aa8"}
+[2019-11-22 10:38:45] banisaleh.INFO: application insert  [] {"uid":"34fdec5"}
+[2019-11-22 10:38:45] banisaleh.INFO: application insert  [] {"uid":"f3c4334"}
+[2019-11-22 10:38:45] banisaleh.INFO: application insert  [] {"uid":"713fce3"}
+[2019-11-22 10:38:47] banisaleh.INFO: application insert  [] {"uid":"1c7eabd"}
+[2019-11-22 10:38:48] banisaleh.INFO: application insert  [] {"uid":"65c3038"}
+[2019-11-22 10:38:52] banisaleh.INFO: application insert  [] {"uid":"318ef81"}
+[2019-11-22 10:38:52] banisaleh.INFO: application insert  [] {"uid":"00a8a77"}
+[2019-11-22 10:38:54] banisaleh.INFO: application insert  [] {"uid":"8952585"}
+[2019-11-22 10:38:58] banisaleh.INFO: application insert  [] {"uid":"3203002"}
+[2019-11-22 10:38:58] banisaleh.INFO: application insert  [] {"uid":"444f844"}
+[2019-11-22 10:39:07] banisaleh.INFO: application insert  [] {"uid":"98e7120"}
+[2019-11-22 10:39:08] banisaleh.INFO: application insert  [] {"uid":"e949eeb"}
+[2019-11-22 10:39:10] banisaleh.INFO: application insert  [] {"uid":"9337186"}
+[2019-11-22 10:39:14] banisaleh.INFO: application insert  [] {"uid":"4c6d650"}
+[2019-11-22 10:39:19] banisaleh.INFO: application insert  [] {"uid":"9aaf2d3"}
+[2019-11-22 10:39:20] banisaleh.INFO: application insert  [] {"uid":"c880d68"}
+[2019-11-22 10:39:24] banisaleh.INFO: application insert  [] {"uid":"4eff978"}
+[2019-11-22 10:39:24] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"936efcc"}
+[2019-11-22 10:39:25] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"81e1a6a"}
+[2019-11-22 10:39:25] banisaleh.INFO: application insert  [] {"uid":"0baa25a"}
+[2019-11-22 10:39:29] banisaleh.INFO: application insert  [] {"uid":"9271dd0"}
+[2019-11-22 10:39:29] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"c24d399"}
+[2019-11-22 10:39:32] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"b03191d"}
+[2019-11-22 10:39:34] banisaleh.INFO: application insert  [] {"uid":"73cfb6f"}
+[2019-11-22 10:39:35] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"dbe8f8a"}
+[2019-11-22 10:39:39] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"e5f07d2"}
+[2019-11-22 10:39:39] banisaleh.INFO: application insert  [] {"uid":"984fe96"}
+[2019-11-22 10:39:41] banisaleh.INFO: application insert  [] {"uid":"5e44d3d"}
+[2019-11-22 10:39:44] banisaleh.INFO: application insert  [] {"uid":"2161ff6"}
+[2019-11-22 10:39:47] banisaleh.INFO: application insert  [] {"uid":"e84a7e3"}
+[2019-11-22 10:39:50] banisaleh.INFO: application insert  [] {"uid":"4eb186c"}
+[2019-11-22 10:39:51] banisaleh.INFO: application insert  [] {"uid":"73f790c"}
+[2019-11-22 10:39:52] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fb338cc"}
+[2019-11-22 10:39:55] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"baaa7cd"}
+[2019-11-22 10:39:55] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ce8a4bc"}
+[2019-11-22 10:39:55] banisaleh.INFO: application insert  [] {"uid":"bb89649"}
+[2019-11-22 10:39:57] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"03aa06c"}
+[2019-11-22 10:39:57] banisaleh.INFO: application insert  [] {"uid":"21ff1d2"}
+[2019-11-22 10:39:58] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"bf0cfde"}
+[2019-11-22 10:39:59] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"567e253"}
+[2019-11-22 10:40:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"41e76c0"}
+[2019-11-22 10:40:00] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"fc200f0"}
+[2019-11-22 10:40:01] banisaleh.INFO: application insert  [] {"uid":"6b0045d"}
+[2019-11-22 10:40:01] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"ae0bed5"}
+[2019-11-22 10:40:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"40edfc7"}
+[2019-11-22 10:40:02] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"74e98a7"}
+[2019-11-22 10:40:03] banisaleh.INFO: application insert  [] {"uid":"8a1e1e1"}
+[2019-11-22 10:40:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"327af5d"}
+[2019-11-22 10:40:03] banisaleh.INFO: application insert  [] {"uid":"238f789"}
+[2019-11-22 10:40:03] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"77d9914"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"11f55b6"}
+[2019-11-22 10:40:04] banisaleh.INFO: application run, select all mahasiswa [] {"uid":"19d69c1"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"7f63ecd"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"4b2cfc6"}
+{"uid":"8c5e7f1"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"d41d0de"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"d74a2c4"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"34bcaa1"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"347aacc"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"3828a9c"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"623634c"}
+[2019-11-22 10:40:04] banisaleh.INFO: application insert  [] {"uid":"05cb295"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"31e78a4"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"1a90e04"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"3dd3c03"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"37deee0"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"ffcc27b"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"dc78083"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"2bf3f42"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"ad9a3c5"}
+[2019-11-22 10:40:05] banisaleh.INFO: application insert  [] {"uid":"6bb2c7d"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"15b4f31"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"8ee25cb"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"638ca4b"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"069a7fb"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"2024dcc"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"af22bbe"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"f0ae447"}
+[2019-11-22 10:40:06] banisaleh.INFO: application insert  [] {"uid":"585cf02"}
+[2019-11-22 10:40:07] banisaleh.INFO: application insert  [] {"uid":"7f9676c"}
+[2019-11-22 10:40:07] banisaleh.INFO: application insert  [] {"uid":"03fa4f8"}
+[2019-11-22 10:40:09] banisaleh.INFO: application run, select 1233 [] {"uid":"6c7dfa4"}
+[2019-11-22 10:43:09] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"2e3a3e2"}
+[2019-11-22 10:43:09] banisaleh.INFO: application run, select 43A87006150265 [] {"uid":"88c7606"}
