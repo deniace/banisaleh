@@ -54,7 +54,7 @@ class MahasiswaFacade {
         extract($data);
         // page, page_size
         $offset = ($page * $page_size) - $page_size;
-        $query = $db->prepare("SELECT * FROM mahasiswa LIMIT ?,?");
+        $query = $db->prepare("SELECT * FROM mahasiswa ORDER BY npm LIMIT ?,?");
         $query_count = $db->prepare("SELECT COUNT(npm) as npm FROM mahasiswa");
         $query_count->execute();
         $data_count = $query_count->fetchObject();
