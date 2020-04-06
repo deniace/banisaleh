@@ -41,6 +41,7 @@ $app->group("/mahasiswa", function (){
     $this->get("[/]", "Facade\MahasiswaFacade:selectAll");
     $this->get("/{npm}", "Facade\MahasiswaFacade:selectByNpm");
     $this->post("/","Facade\MahasiswaFacade:insert");
+    $this->post("/paging","Facade\MahasiswaFacade:getPaging");
     $this->put("/","Facade\MahasiswaFacade:update");
     $this->delete("/{npm}", "Facade\MahasiswaFacade:delete");
 });

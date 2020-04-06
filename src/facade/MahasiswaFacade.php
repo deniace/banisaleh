@@ -47,6 +47,29 @@ class MahasiswaFacade {
         }
         return $res;
     }
+
+    public function getPaging(Request $req, Response $res, $args){
+        $db = $this->db;
+        $data = $req->getParsedBody();
+        extract($data);
+        // page, page_size
+        $offset = ($page * $page_size) - $page_size;
+        $query = $db->prepare("SELECT * FROM mahasiswa LIMIT ?,?");
+        $query_count = $db->prepare("SELECT COUNT(npm) as npm FROM mahasiswa");
+        $query_count->execute();
+        $data_count = $query_count->fetchObject();
+        // $data_count->npm;
+
+        $query->execute([$offset, $page_size]);
+        $data = $query->fetchAll();
+        $total_data = $data_count->npm;
+        if ($data) {
+            $res = $res->withJson(ApiResponse::ok("ok", ["total_data" => $total_data,"rows" => $data]));
+        }else {
+            $res = $res->withJson(ApiResponse::notFound());
+        }
+        return $res;
+    }
     
     //insert
     public function insert(Request $req, Response $res, $args){
