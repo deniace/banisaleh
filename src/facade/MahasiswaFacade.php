@@ -58,7 +58,6 @@ class MahasiswaFacade {
         $query_count = $db->prepare("SELECT COUNT(npm) as npm FROM mahasiswa");
         $query_count->execute();
         $data_count = $query_count->fetchObject();
-        // $data_count->npm;
 
         $query->execute([$offset, $page_size]);
         $data = $query->fetchAll();
